@@ -51,10 +51,28 @@ A look at all the basic tools and methods in seaborn - most of which I commonly 
 
 ### [Pandas Visualisation Cheat Sheet](https://github.com/pavsingh7/Matplotlib/blob/main/pandas_vs.ipynb) 
 
-
 We look at pandas for plotting data. We cover very elementary charts and graphics and some options for these plots. 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/pandas_vs.ipynb)
+
+
+## Walk-through and Exercises
+
+### [Titanic Dataset](https://github.com/pavsingh7/Matplotlib/blob/main/matplot_titanic.ipynb) 
+
+We go through and explore the titanic data set using matplotlib and seaborn for data visualisation. Some data manipulation takes place, but we try to keep this to a minimum. 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/matplot_titanic.ipynb)
+
+
+### [Titanic Dataset](https://github.com/pavsingh7/Matplotlib/blob/main/matplot_titanic.ipynb) 
+
+We go through and explore the titanic data set using matplotlib and seaborn for data visualisation. Some data manipulation takes place, but we try to keep this to a minimum. 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/matplot_titanic.ipynb)
+
+
+
 
 ***
 
@@ -75,9 +93,21 @@ The work is best used in a code editor or online editor like Google Colab - link
 
 ## Datasets
 
-A list of datasets to  play around with using pandas;
+A list of datasets to  play around and visualize with matplotlib;
 
 - [Titanic Data](https://www.kaggle.com/datasets/brendan45774/test-file)
+
+    * This dataset contains information about the passengers on the Titanic, including their age, gender, class, fare, and survival.
+
+- [Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
+    * This dataset contains information about patients with diabetes, including their age, blood pressure, body mass index, and 6-year risk of developing diabetes.
+
+
+- [Boston Housing Dataset](https://www.kaggle.com/c/boston-housing)
+    * This dataset contains information about housing prices in the Boston area, including the average number of rooms per dwelling, the crime rate, the age of the buildings, and other variables.
+
+- [Stock Market Dataset](https://www.kaggle.com/datasets/paultimothymooney/stock-market-data)
+    * This dataset contains information about the stock market, including stock prices, volume, and other variables
 
 ***
 
