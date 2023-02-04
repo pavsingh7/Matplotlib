@@ -1,19 +1,14 @@
 # Matplotlib and Seaborn
 
-A collection of resources and notebooks for working in and getting starting with matplotlib and seaborn library in Python.
+> A collection of resources and notebooks for working in and getting starting with matplotlib and seaborn library in Python.
 
-Matplotlib and Seaborn are two popular data visualization libraries in Python. **Matplotlib** is a plotting library that provides a high-level interface for producing a variety of plots.
+Matplotlib and Seaborn are two popular data visualization libraries in Python. **Matplotlib** is a plotting library that provides a high-level interface for producing a variety of plots. **Seaborn**, on the other hand, is a higher-level library built on top of Matplotlib that provides a more intuitive interface and better visualization style. 
 
-**Seaborn**, on the other hand, is a higher-level library built on top of Matplotlib that provides a more intuitive interface and better visualization style. 
+While both Matplotlib and Seaborn provide similar functionality Seaborn provides a more intuitive and aesthetically pleasing approach to data visualization, while Matplotlib provides more control over the plot's appearance and flexibility in customizing the plot. 
 
-While both Matplotlib and Seaborn provide similar functionality Seaborn provides a more intuitive and aesthetically pleasing approach to data visualization, while Matplotlib provides more control over the plot's appearance and flexibility in customizing the plot.
-
+**I naturally lean towards using matplotlib often as I am familair with the syntax and customisability - however using Seaborn really does neaten up the code and allow you to effectively create powerful visualisations in fewer steps.**
 ***
 # Notebooks
-
-
-
-
 
 
 
@@ -47,7 +42,7 @@ A look at all the basic tools and methods in seaborn - most of which I commonly 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/seaborn_cs.ipynb)
 
 
-## Pandas Plotting
+## Pandas
 
 ### [Pandas Visualisation Cheat Sheet](https://github.com/pavsingh7/Matplotlib/blob/main/pandas_vs.ipynb) 
 
@@ -65,11 +60,11 @@ We go through and explore the titanic data set using matplotlib and seaborn for 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/matplot_titanic.ipynb)
 
 
-### [Titanic Dataset](https://github.com/pavsingh7/Matplotlib/blob/main/matplot_titanic.ipynb) 
+### [Housing Dataset](https://github.com/pavsingh7/Matplotlib/blob/main/matplot_husing.ipynb) 
 
-We go through and explore the titanic data set using matplotlib and seaborn for data visualisation. Some data manipulation takes place, but we try to keep this to a minimum. 
+We go through and explore the housing data set using matplotlib and seaborn for data visualisation. Some data manipulation takes place, but we try to keep this to a minimum. 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/matplot_titanic.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Matplotlib/blob/master/matplot_housing.ipynb)
 
 
 
